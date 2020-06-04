@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="122" viewBox="0 0 146 122">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(232,224,255,0.5);
+      }
+
+      .cls-2 {
+        fill: rgba(211,242,255,0.55);
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #00b1ff;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #00b1ff;
+      }
+
+      .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Painless_Icon" data-name="Painless Icon" transform="translate(-887 -989)">
+    <g id="BG" transform="translate(887 988.701)">
+      <circle id="Ellipse_33" data-name="Ellipse 33" class="cls-1" cx="39.5" cy="39.5" r="39.5" transform="translate(0 3.299)"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="28" cy="28" r="28" transform="translate(90 62.299)"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-2" cx="57" cy="56.5" rx="57" ry="56.5" transform="translate(22 0.299)"/>
+      <g id="Ellipse_38" data-name="Ellipse 38" class="cls-3" transform="translate(14 9.299)">
+        <circle class="cls-6" cx="56.5" cy="56.5" r="56.5"/>
+        <circle class="cls-7" cx="56.5" cy="56.5" r="55.5"/>
+      </g>
+    </g>
+    <g id="painless" transform="translate(-221 0.078)">
+      <g id="Cursor_Double" data-name="Cursor / Double" transform="translate(1149 1027)">
+        <g id="cursor-double" transform="translate(0 0)">
+          <path id="Path" class="cls-4" d="M17.784,31.616A13.832,13.832,0,1,1,31.616,17.784a1.976,1.976,0,0,0,3.952,0A17.784,17.784,0,1,0,17.784,35.568a1.976,1.976,0,1,0,0-3.952Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+      <path id="Icon_awesome-mouse-pointer" data-name="Icon awesome-mouse-pointer" class="cls-4" d="M24.761,26.969H16.069l4.575,11.143a1.522,1.522,0,0,1-.774,1.966l-4.029,1.756a1.45,1.45,0,0,1-1.912-.8L9.582,30.457l-7.1,7.3A1.45,1.45,0,0,1,0,36.707V1.5A1.45,1.45,0,0,1,2.481.446l23.3,23.971A1.5,1.5,0,0,1,24.761,26.969Z" transform="translate(1165.695 1043.927) rotate(-22)"/>
+      <g id="Ellipse_158" data-name="Ellipse 158" class="cls-5" transform="translate(1158 1035.922)">
+        <circle class="cls-6" cx="8.5" cy="8.5" r="8.5"/>
+        <circle class="cls-7" cx="8.5" cy="8.5" r="6.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

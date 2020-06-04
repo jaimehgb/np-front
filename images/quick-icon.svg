@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="122" viewBox="0 0 146 122">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(232,224,255,0.5);
+      }
+
+      .cls-2 {
+        fill: rgba(211,242,255,0.55);
+      }
+
+      .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #00b1ff;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #00b1ff;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="quick_icon" data-name="quick icon" transform="translate(0 -0.299)">
+    <circle id="Ellipse_33" data-name="Ellipse 33" class="cls-1" cx="39.5" cy="39.5" r="39.5" transform="translate(0 3.299)"/>
+    <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="28" cy="28" r="28" transform="translate(90 62.299)"/>
+    <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-2" cx="57" cy="56.5" rx="57" ry="56.5" transform="translate(22 0.299)"/>
+    <g id="Ellipse_38" data-name="Ellipse 38" class="cls-3" transform="translate(14 9.299)">
+      <circle class="cls-5" cx="56.5" cy="56.5" r="56.5"/>
+      <circle class="cls-6" cx="56.5" cy="56.5" r="55.5"/>
+    </g>
+    <path id="Icon_awesome-bolt" data-name="Icon awesome-bolt" class="cls-4" d="M28.273,15.282H17.25l4.069-12.4A2.3,2.3,0,0,0,19.1,0H5.349A2.3,2.3,0,0,0,3.076,1.987L.019,24.91a2.3,2.3,0,0,0,2.273,2.6H13.63l-4.4,18.578a2.29,2.29,0,0,0,4.212,1.672L30.25,18.721a2.288,2.288,0,0,0-1.977-3.439Z" transform="translate(55.435 41.012)"/>
+  </g>
+</svg>
