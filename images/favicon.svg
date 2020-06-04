@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.606" height="52.219" viewBox="0 0 61.606 52.219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0.32);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: #00b1ff;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.506" y1="-0.005" x2="0.5" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1eb1fc"/>
+      <stop offset="1" stop-color="#714ae2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_123" data-name="Group 123" transform="translate(-26.599 -19.099)">
+    <g id="Nanoom_Logo" data-name="Nanoom Logo" transform="translate(26.599 19.099)">
+      <path id="Back_Rectangle" data-name="Back Rectangle" class="cls-1" d="M2.66,0H21.28a2.648,2.648,0,0,1,2.66,2.635l-.021,40.537-9.555.048A14.3,14.3,0,0,1,0,28.989V2.635A2.648,2.648,0,0,1,2.66,0Z" transform="translate(61.606 30.847) rotate(135)"/>
+      <path id="Front_Rectangle" data-name="Front Rectangle" class="cls-2" d="M.114,0,7.183.037a7.232,7.232,0,0,0-2.8,3.518c.016.019-.855,1.22-1.137,6.252s.048,14.151.048,14.151L0,23.985Z" transform="translate(47.599 16.801) rotate(45)"/>
+      <line id="Line_1" data-name="Line 1" class="cls-3" x1="30" y1="29.1" transform="translate(23.901 9.401)"/>
+      <path id="Front_Rectangle-2" data-name="Front Rectangle" class="cls-4" d="M14.364,0,30.225.045a10.6,10.6,0,0,0-5.244,5.9,19.522,19.522,0,0,0-1.019,6.467L23.94,40.964a2.66,2.66,0,0,1-2.66,2.66H2.66A2.66,2.66,0,0,1,0,40.964v-26.6A14.364,14.364,0,0,1,14.364,0Z" transform="translate(30.847 0) rotate(45)"/>
+      <g id="nano-1" transform="matrix(0.966, -0.259, 0.259, 0.966, 6.549, 14.34)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-5" cx="4.082" cy="4.082" r="4.082" transform="translate(0 16.158)"/>
+        <path id="Path_1" data-name="Path 1" class="cls-5" d="M20.666,8.164h-.341c-3.571,0-4.082-.849-4.082-4.082a4.082,4.082,0,0,0-8.164,0c0,3.233-.511,4-4.082,4H3.656a3.993,3.993,0,0,0-3.656,4,4.084,4.084,0,0,0,4.082,4.082,4.006,4.006,0,0,0,4-3.741v-.256c0-2.977.934-4.082,4.082-4.082s4.082,1.1,4.082,4a4.084,4.084,0,0,0,4.082,4.082,4.031,4.031,0,0,0,4.082-4.082A4.118,4.118,0,0,0,20.666,8.164Z" transform="translate(8.079 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
